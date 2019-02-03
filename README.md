@@ -1,88 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-
-# Clicky-Game
-- Clicky-Game - (REACT, Heroku)
+# Clickygame
+- Clickygame - (REACT, Heroku)
 
 **Game Instructions** - Try to click on every picture once. When you click a picture the grid will automatically shuffle. The goal of the game is click all 12 pictures once despite the shuffled grid. If you click any picture twice the game will reset and  you must start the again!
 
-**Comments** - The Clicky-Game primarily introduces REACT and all its benefits. Though this game is not persistent it is easy to understand the reusable component concept using REACT truly improves the development process.
-
-
 ## Heroku Link
-The link below will give you direct access to Clicky-Game web application using your web browser via the Heroku web service.
+The link below will give you direct access to Clickygame web application using your web browser via the Heroku web service.
 
-* [Clicky-Game](link will display here)
+* [Clickygame](https://clickyimages.herokuapp.com/)
 
 ## Local Environment Setup
-To use Clicky-Game web application application from your local environment, you must accomplish the following steps below:
+To use Clickygame web application application from your local environment, you must accomplish the following steps below:
 
 <table>
   <tr>
@@ -96,7 +24,7 @@ To use Clicky-Game web application application from your local environment, you 
   <tr>
     <td align="center">01</td>
     <td>Clone this repo</td>
-    <td>git clone https://<i></i>github.com/GrissomErick/Clicky-Game.git</td>
+    <td>git clone https://<i></i>git@github.com:gansuvd777/clickygame.git</td>
   </tr>
   <tr>
     <td align="center">02</td>
@@ -106,12 +34,12 @@ To use Clicky-Game web application application from your local environment, you 
   <tr>
     <td align="center">03</td>
     <td>Change directory to the cloned repo folder</td>
-    <td>cd Clicky-Game</td>
+    <td>cd clickygame</td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td>Start the application</td>
-    <td>npm start</td>
+    <td>npm run start</td>
   </tr>
   </table>
 
