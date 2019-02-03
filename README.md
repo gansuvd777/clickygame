@@ -67,9 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-<p align="center">
-<a href="https://uncbc-clickygame.herokuapp.com/" target="_blank"><img src=https://github.com/GrissomErick/Clicky-Game/blob/master/public/img/Clicky_Game_Header.png?raw=true" alt="Project logo"/></a>
-</p>
 
 # Clicky-Game
 - Clicky-Game - (REACT, Heroku)
@@ -135,42 +132,3 @@ Clicky-Game uses the following NPM packages:
 
 * **Pearl Oyunbaatar** - *REACT* - [Clicky-Game Repo](https://github.com/gansuvd777/clickygame)
 
-<!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
-
-<!--
-- axios NPM Package - [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
-- body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
-- cheerio NPM Package - [ttps://www.npmjs.com/package/cheerio](https://www.npmjs.com/package/cheerio)
-- cli-table NPM Package - [https://www.npmjs.com/package/cli-table](https://www.npmjs.com/package/cli-table)
-- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
-- express-handlebars NPM Package - [https://www.npmjs.com/package/express-handlebars](https://www.npmjs.com/package/express-handlebars)
-- heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
-- inquirer NPM Package - [https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)
-- mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
-- morgan NPM Package - [https://www.npmjs.com/package/morgan](https://www.npmjs.com/package/morgan)
-- mysql NPM Package - [https://www.npmjs.com/package/mysql](https://www.npmjs.com/package/mysql)
-- node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
-- path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
-- react NPM Package - [https://www.npmjs.com/package/react](https://www.npmjs.com/package/react)
-- react-dom NPM Package - [https://www.npmjs.com/search?q=react-dom](https://www.npmjs.com/search?q=react-dom)
-- react-router NPM Package - [https://www.npmjs.com/package/react-router](https://www.npmjs.com/package/react-router)
-- request NPM Package - [https://www.npmjs.com/package/request](https://www.npmjs.com/package/request)
--->
-  
-  <!--
-  <table>
-  <tr>
-    <th colspan="3">Web Browser Steps</th>
-  </tr>
-  <tr>
-    <td align="center" style="width: 75px;">Step #</td>
-    <td align="center" style="width: 400px;">Description</td>
-    <td align="center" style="width: 200px;">Browser Route</td>
-  </tr>
-  <tr>
-    <td align="center">01</td>
-    <td>Navigate web browser to the application home page</td>
-    <td>localhost:3000</td>
-  </tr>
-  </table>
-  -->
