@@ -102,5 +102,11 @@ img.profile-pic {
   .Board h4 {
     font-size: 14px;
   }
+  .character-box{
+    height: auto;
+  }
+  img.profile-pic {
+    margin-bottom: 10px;
+  }
 }
 
